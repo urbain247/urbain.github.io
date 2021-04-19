@@ -1,0 +1,28 @@
+li{
+    display:inline-block;
+    padding: 89px;
+    text-indent: 45px;
+    background-position: 16vmax;
+  }
+p{
+    text-align: center;
+}
+img{
+    width:  790px;
+    height: 700px;
+    align-items: center;
+    padding-left: 180px;
+}
+a{
+    display: blocks;
+    align-items: center;
+    padding: 70px;
+}
+    
+ 
+body{
+    background-color:hsl(203, 57%, 60%);
+   
+}
+ 
+

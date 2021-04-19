@@ -1,0 +1,14 @@
+h3{
+    padding: auto;
+    display: inherit;
+    text-align: left;
+    page-break-inside: auto;
+} 
+body{
+    background-color: hsl(203, 57%, 60%);
+}
+
+
+h1{
+    text-align: center;
+}
