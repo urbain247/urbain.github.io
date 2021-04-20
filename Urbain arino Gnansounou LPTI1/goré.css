@@ -1,0 +1,30 @@
+.flotte{
+    float: left;
+}
+#PAM{
+    style="line-height: 45px;"
+}
+#SEV{
+    width:760px;
+    padding: 67px;
+    bottom: auto;
+
+}
+.flotte1{
+    float: left;
+}
+#SEV1{
+    padding: 55px;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+
+}
+h1{
+    color: white;
+    size: 45px;
+    text-align: center;
+}

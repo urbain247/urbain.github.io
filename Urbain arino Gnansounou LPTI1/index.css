@@ -1,0 +1,53 @@
+li{
+    
+    padding: 60px;
+    
+    font-size: 45px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: oblique;
+    margin: 45px;
+    align-items: center;
+}
+
+
+body{
+    background-color:black;
+}
+h1{
+    color: white;
+    font-style: oblique;
+    
+    text-align: center ;
+}
+h2{
+    color: white;
+    font-style: oblique;
+    text-align: center;
+}
+footer{
+    padding: 45px;
+    
+}
+#sss{
+    background-image:url("pyramide.JPG") ;
+    
+    width: 1565px;
+   
+}
+#ssa{
+     background-image: url("statuu.png");
+     width: 1550px;
+    
+}
+
+    
+#sse{
+    background-image: url("goré.jpg");
+    width: 1550px
+    
+}
+#ssu{
+    background-image: url("gris.jpg");
+    width: 1565px;
+    }

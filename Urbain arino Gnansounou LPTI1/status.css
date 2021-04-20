@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+    padding: 45px;
+    text-align: center;
+}
+.QQQ{
+    float: left;
+    padding: 30px;
+}
